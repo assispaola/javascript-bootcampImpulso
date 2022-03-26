@@ -1,0 +1,49 @@
+body {
+    width: 100vw;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container {
+    background: #ffddf1;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    border: solid 1px #e2cdd9;
+}
+
+h1 {
+    font-size: 60px;
+    letter-spacing: 10px;
+    color: #cc4694;
+}
+
+img {
+    border: solid 1px #e2cdd9;
+    padding: 20px;
+    max-width: 700px;
+}
+
+.botao {
+    padding: 10px;
+}
+
+button {
+    background: #05d4d4;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.2s;
+}
+
+button:hover {
+    background: #cc4694;
+}
+
+.imagem {
+    padding-top: 40px;
+}
